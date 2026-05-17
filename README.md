@@ -1,2 +1,13 @@
 # 100-Days-of-Cloud-Azure---KodeKloud
 KodeKloud Engineer 100 Days of Cloud (Azure) Challenges and Solutions.
+
+Day 1 - Create SSH Key Pair for Azure Virtual Machine
+Day 2 - Create an Azure Virtual Machine
+Day 3 - Create VM using Azure CLI
+Day 4 - Create a Virtual Network (VNet) in Azure
+Day 5 - Create a Virtual Network (IPv4) in Azure
+Day 6 - Create a Subnet in Azure Virtual Network
+Day 7 - Create a Public IP Address for Azure VM
+Day 8 - Attach Managed Disk to Azure Virtual Machine
+Day 9 - Attach Network Interface Card (NIC) to Azure Virtual Machine
+Day 10 - Attach Public IP to Azure Virtual Machine
