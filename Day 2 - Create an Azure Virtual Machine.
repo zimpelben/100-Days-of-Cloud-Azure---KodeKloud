@@ -1,0 +1,48 @@
+The Nautilus DevOps team is planning to migrate a portion of their infrastructure to the Azure cloud incrementally. As part of this migration, you are tasked with creating an Azure Virtual Machine (VM).
+
+The requirements are:
+
+1. Use the existing resource group.
+2. The VM name must be `datacenter-vm`, it should be in `southcentralus` region.
+3. Use the `Ubuntu 24.04 LTS` image for the VM.
+4. The VM size must be `Standard_B1s`.
+5. Attach a default Network Security Group (NSG) that allows inbound SSH (port 22).
+6. Attach a 30 GB storage disk of type `Standard HDD`.
+7. The rest of the configurations should remain as default.
+
+After completing these steps, make sure you can SSH into the virtual machine. 
+
+### Answer: Using Azure Portal 
+
+1. Login in with the credential provided.
+2. Go to Virtual Machines.
+3. Click + Create.
+4. Choose Virtual machine.
+5. Select Resource group (kml_rg_main****** ).
+6. Virtual machine name = `datacenter-vm`.
+7. Click on Region and choose `South Central US`.
+8. For Image choose `Ubuntu Pro 24.04 LTS`.
+9. For Size click on the drop down and then See all sizes.
+10. Select Class B and then `Standard_B1s`.
+11. For Authentication type select SSH public key.
+12. Use the `azureuser` for username (this is automatically generated).
+13. Ensure RS SSH Format is selected.
+14. Use the auto-generated Key pair name.
+15. For Public inbound ports select Allow selected ports
+16. Ensure SSH (22) is selected for Select inbound ports (should be selected by default).
+17. Click on Next: Disk.
+18. For OS disk size ensure `Image Default (30GiB)` is selected.
+19. OS Disk type, select `Standard HDD`.
+20. Click on Next:Networking.
+21. Ensure the auto-generated network values are corrected and that SSH (22) port is allowed. 
+22. Click on Review and Create.
+23. Download the private key and create resource.
+24. Ensure the deployment is complete and then click go to resource.
+25. Click on CONNECT on the VM details page. 
+26. Copy the SSH Command and replace the file path with path of the downloaded key pair. 
+27. Then check the connection via SSH. 
+
+Finish the task by clicking check.
+
+**Note**: This can also be done via the Azure CLI which is the next task (Day 3: Create VM using Azure CLI), therefore this task was done via the Azure Portal.  
+
