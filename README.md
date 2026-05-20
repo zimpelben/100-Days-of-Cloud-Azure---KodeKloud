@@ -11,7 +11,7 @@ KodeKloud Engineer 100 Days of Cloud (Azure) Challenges and Solutions.
 - Day 8 - Attach Managed Disk to Azure Virtual Machine
 - Day 9 - Attach Network Interface Card (NIC) to Azure Virtual Machine
 - Day 10 - Attach Public IP to Azure Virtual Machine
-- [Day 11 - Change Azure Virtual Machine Size Using Console
+- Day 11 - Change Azure Virtual Machine Size Using Console
 - Day 12 - Add and Manage Tags for Azure Virtual Machine
 - Day 13 - SSH into an Azure Virtual Machine
 - Day 14 - Create and Attach Managed Disks in Azure
