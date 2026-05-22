@@ -18,3 +18,13 @@ KodeKloud Engineer 100 Days of Cloud (Azure) Challenges and Solutions.
 - Day 15 - Create and configure Network Security Group (NSG) in Azure
 - Day 16 - Create a Private Azure Blob Storage Container
 - Day 17 - Create a Public Azure Blob Storage Container
+- Day 18 - Copy Data to an Azure Blob Storage Container
+- Day 19 - Convert Public Azure Blob Container to Private
+- Day 20 - Deploy Azure Resources Using ARM Template
+- Day 21 - Assigning Public IP to Virtual Machines
+- Day 22 - Configuring Instances with User Data
+- Day 23 - Automating User Data Configuration Using the CLI
+- Day 24 - Securing Virtual Machine SSH Access
+- Day 25 - Expanding and Managing Disk Storage
+- Day 26 - Deploying Virtual Machines in a Public Virtual Network
+- Day 27 - Deploying Virtual Machines in a Private Virtual Network
