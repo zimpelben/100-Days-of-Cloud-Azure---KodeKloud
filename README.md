@@ -28,3 +28,5 @@ KodeKloud Engineer 100 Days of Cloud (Azure) Challenges and Solutions.
 - Day 25 - Expanding and Managing Disk Storage
 - Day 26 - Deploying Virtual Machines in a Public Virtual Network
 - Day 27 - Deploying Virtual Machines in a Private Virtual Network
+- Day 28 - Troubleshooting Public Virtual Network Configurations
+- Day 29 - Working with Azure Container Registry (ACR)
