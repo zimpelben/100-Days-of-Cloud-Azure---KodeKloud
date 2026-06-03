@@ -37,3 +37,7 @@ KodeKloud Engineer 100 Days of Cloud (Azure) Challenges and Solutions.
 - Day 34 - Enabling Internet Connectivity for Virtual Machines
 - Day 35 - Configuring Virtual Network Peering
 - Day 36 - Managing Storage Lifecycle in Azure
+- Day 37 - Setting Up MySQL on a Virtual Machine in Azure
+- Day 38 - Running Containers on Azure Virtual Machines
+- Day 39 - Deploying a Static Website Using Containers on Azure
+- Day 40 - Managing Secrets with Azure Key Vault
