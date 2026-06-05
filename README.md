@@ -43,3 +43,6 @@ KodeKloud Engineer 100 Days of Cloud (Azure) Challenges and Solutions.
 - Day 40 - Managing Secrets with Azure Key Vault
 - Day 41 - Working with Azure Table Storage
 - Day 42 - Backup and Delete Azure Storage Blob Container
+- Day 43 - Configuring Azure VM with Application Gateway
+- Day 44 - Integrating Azure Event Hub with Virtual Machines
+- Day 45 - Azure Kubernetes Service (AKS) Setup and Management
