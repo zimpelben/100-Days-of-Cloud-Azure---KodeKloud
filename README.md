@@ -48,3 +48,6 @@ KodeKloud Engineer 100 Days of Cloud (Azure) Challenges and Solutions.
 - Day 45 - Azure Kubernetes Service (AKS) Setup and Management
 - Day 46 - EventHub to Blob Storage Integration Setup
 - Day 47 - SQL Database Migration and Setup
+- Day 48 - VM and ACR Integration for Storage
+- Day 49 - VM Setup with Web Storage Integration
+- Day 50 - VM Setup and Configuration for Azure Application Gateway
